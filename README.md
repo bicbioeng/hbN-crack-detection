@@ -40,6 +40,7 @@ Install the necessary Python packages using the provided commands in the noteboo
 ```bash
 pip install ultralytics==8.2.88
 pip install pillow==10.2.0
+pip install gdown==5.2.0
 ```
 
 ## Running the Notebook in Google Colab
